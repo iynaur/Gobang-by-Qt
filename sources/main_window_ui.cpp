@@ -2,7 +2,7 @@
 
 #include <QEvent>
 #include <qt_windows.h>
-
+#include <cmath>
 #define Distance(x0, y0, x1, y1) sqrt(((x0)-(x1))*((x0)-(x1))+((y0)-(y1))*((y0)-(y1)))
 
 
